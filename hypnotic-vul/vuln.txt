@@ -1,0 +1,5 @@
+
+https://bi.wxmolegames.com/ ApacheSuperset-CVE-2023-27524
+http://192.168.106.128:8080/ cve
+http://192.168.106.128:8080/ Spring-CVE-2022-22965
+http://192.168.106.128:8080/ Spring-CVE-2022-22965
